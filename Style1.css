@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    
+}
+#logo{
+    height: 35px;
+}
+#paragrafo{
+    font-size: 9px;
+    padding: 7px;
+    background-color: rgb(255, 251, 233);
+}
+#testo{
+    font-size: 11px;
+}
+#testo2{
+    text-align: left;
+    margin-left: 390px;
+}
+#img{
+    width: 450px;
+    padding-top: 10px;
+}
+#link{
+    text-align: left;
+    margin-left:390px ;
+    padding-top: 40px;
+}
+#link1{
+    color: brown;
+}
+
+#div1{
+    text-align: left;
+    margin-left: 370px;
+    padding-top: 50px;
+    font-size: 19px; 
+}
+.foc{
+    text-align: left;
+    margin-left: 370px;
+    padding-top: 40px;
+}
+#div2{
+    text-align: left;
+    margin-left: 370px;
+    font-size: 19px;
+}
+.div3{
+    text-align: left;
+    margin-left: 370px;
+}
+#div4{
+    text-align: left;
+    margin-left: 410px;
+
+}
+#div5{
+    text-align: left;
+    margin-left: 370px;
+    padding-top: 10px;
+}
